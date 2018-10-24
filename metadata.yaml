@@ -1,11 +1,16 @@
 _repo: A-Trip-to-the-Chain-Bridge-near-Bangor-and-other-parts-of-North-Wales_58096
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58096-h/images/cover.jpg
 creator:
   author:
     agent_name: Liverpool, A Gentleman of
     gutenberg_agent_id: '49770'
     url: http://www.gutenberg.org/2009/agents/49770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58096#A-Trip-to-the-Chain-Bridge-near-Bangor-and-other-parts-of-North-Wales
 gutenberg_issued: '2018-10-14'
 gutenberg_type: Text
 identifiers:
